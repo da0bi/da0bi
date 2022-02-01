@@ -1,5 +1,7 @@
 Hi, my name is Daniel 👋\
-:snowflake:I am interested in the world's cryosphere and associated natural hazards in the Anthropocene. As a trained geophysicist, I use geophysical methods in particular to identify and understand key process drivers. However, I am eager to learn new methods of collecting, analyzing and modeling data. In my research, as well as in my private life, I am interested in free hardware and open software solutions to tackle whatever might come around.      
+:snowflake: I am interested in the world's cryosphere and associated natural hazards especially in the Anthropocene.\
+:telescope: As a trained geophysicist, I use geophysical methods in particular to identify and understand key process drivers. However, I am eager to learn new methods of collecting, analyzing and modeling data.\
+:hammer_and_pick: In my research, as well as in my private life, I am interested in free hardware and open software solutions to tackle whatever might come around.      
 
 <!--
 **da0bi/da0bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
