@@ -1,4 +1,4 @@
-### Hi, my name is Daniel 👋
+### Hi there 👋
 
 :snowflake: &emsp; I am interested in the world's cryosphere and associated natural hazards especially during the Anthropocene.
 
