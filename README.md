@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-:snowflake: &emsp; I am interested in the world's cryosphere and associated natural hazards especially during the Anthropocene.
-
-:telescope: &emsp; I use geophysical survey methods in particular to identify and understand key process drivers. However, I am\
-&emsp; &emsp; always up for expanding my method quiver to collect, analyze and model environmental data.
-
-:hammer_and_pick: &emsp; Both in my research and in my private life, I am excited about free hardware and open software solutions.
-
-:rocket: &emsp; Check out [my Research Gate profile](https://www.researchgate.net/profile/Daniel-Binder) to learn more about my research! 
+* ❄️ **Focus:** Investigating the world's cryosphere and tracking associated natural hazards during the Anthropocene.
+* 🔭 **Approach:** Deploying geophysical survey methods to unlock and model environmental process drivers. I am always looking to expand my technological toolkit to capture and analyze field data.
+* 🛠️ **Philosophy:** Passionate about open-source software and open-hardware solutions—both in my scientific research and personal projects.
+* 🚀 **Explore:** Dive into my [ResearchGate Profile](https://www.researchgate.net/profile/Daniel-Binder) to review my latest publications and field updates!
